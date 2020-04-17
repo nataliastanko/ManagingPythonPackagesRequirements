@@ -1,16 +1,21 @@
 
-
 # Requirements
 
-Make sure you have python installed
+## Python version
 
-    python --version
+Make sure you have python3 installed
+
+    python3 --version
 
 and pip
 
-    pip -V
+    pip3 -V
 
-and both indicate to python 3.
+## Use virtualenvs
+
+From virtualenv promt console run
+
+    python3 -m pip install -r requirements.txt
 
 # Sources
 
