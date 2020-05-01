@@ -1,4 +1,6 @@
 
+Standalone application with third-party dependency
+
 # Requirements
 
 ## Python version
@@ -13,7 +15,7 @@ and pip
 
 ## Use virtualenvs
 
-From virtualenv promt console run
+From virtualenv prompt console run
 
     python3 -m pip install -r requirements.txt
 
